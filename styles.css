@@ -1,0 +1,41 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+caption {
+    font-family: monospace, 'Courier New', Courier;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 25px;
+    color:black
+}
+
+table {
+    border: 2px solid blueviolet;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: blue;
+}
+
+thead th {
+    color:white;
+}
+
+td {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-top: 1px solid blue;
+    border-left: 1px solid blue;
+}
+
+.title {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: bolder;
+}

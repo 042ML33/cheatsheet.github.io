@@ -1,2 +1,2 @@
 # codeacademy
-codeacademy exercises
+codeacademy cheat cheet exercise
